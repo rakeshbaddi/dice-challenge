@@ -1,0 +1,36 @@
+body {
+  background-color: #393232;
+  text-align: center;
+}
+
+h1 {
+  font-family: Lobster;
+  font-size: 6rem;
+  line-height: 0.5;
+  color: #ff8303;
+  text-shadow: 5px 0 #e40017;
+}
+
+p {
+  font-family: Indie Flower;
+  font-size: 1.5rem;
+  color: #ff8303;
+  text-decoration: underline #e40017;
+}
+
+footer {
+  font-family: Indie Flower;
+  color: #ff8303;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-top: 75px;
+}
+
+.dice {
+  display: inline-block;
+  margin: 10px 25px;
+}
+
+.dice-img {
+  width: 75%;
+}
